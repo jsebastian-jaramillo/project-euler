@@ -8,7 +8,7 @@
 
 /**
  *
- * @author ju4n
+ * @author jsebastian.jaramillo@udea.edu.co
  */
 final class Problem007 {
     
