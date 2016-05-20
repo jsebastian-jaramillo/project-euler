@@ -1,8 +1,3 @@
-
-import java.util.Iterator;
-import java.util.SortedSet;
-import java.util.TreeSet;
-
 /*
  * A palindromic number reads the same both ways. The largest palindrome made
  * from the product of two 2-digit numbers is 9009 = 91 × 99.
@@ -36,7 +31,7 @@ final class Problem004 {
         
         int num0 = 999;
         int num1 = 999;
-                
+
         while (num0 > 100) {
             while (num1 > 900) {
 
